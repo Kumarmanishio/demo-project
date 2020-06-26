@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Registeration</title>
+  </head>
+  <body>
+    <form  action="register" method="post">
+      {% csrf_token %}
+      <input type="text" name="description" placeholder="Description"><br>
+      <input type="text" name="post_date" placeholder="Post Date"><br>
+      <input type="text" name="author_id" placeholder="Author ID"><br>
+      <input type="blog_id" name="email" placeholder="Blog_Id"><br>
+      <input type="Submit">
+    </form>
+{#    <div>#}
+{#      {% for message in messages %}#}
+{#      <h3>{{message}}</h3>#}
+{#      {% endfor %}#}
+{#    </div>#}
+  </body>
+</html>
