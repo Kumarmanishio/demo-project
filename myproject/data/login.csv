@@ -1,4 +1,0 @@
-id,password,last_login,is_superuser,username,first_name,last_name,email,is_staff,is_active,date_joined
-1,pbkdf2_sha256$100000$8oPZpgGSIUm4$hB6fmWpGSvRUMrfuHTsYutFulO7KtGWUQacPVs20KhE=,"2020-06-26 10:09:34.402990",1,manish,,,manish@gmail.com,1,1,"2020-06-24 15:54:10.719319"
-2,pbkdf2_sha256$100000$OHR9Dd9rZuVn$KzbSGCGAvXHCjsQOmYIByHebZt6NfUQFTJzzyWhhSFo=,"2020-06-25 16:53:48.668135",1,narveer,,,narveer@gmail.com,1,1,"2020-06-24 17:01:18.433835"
-4,pbkdf2_sha256$100000$U5lZYwxMVFG7$ZwRjT5BEcf2ZlVjiW+tQ6c5KAhLCo7hWWUrU+0xRQdM=,"2020-06-26 13:11:01.163841",1,Ashu,,,ashu@gmail.com,1,1,"2020-06-26 07:38:58.176865"
